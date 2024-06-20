@@ -2,5 +2,9 @@
     "title":"阿申的博客",
     "subTitle":"记录学习",
     "avatarUrl":"https://lh3.googleusercontent.com/a/ACg8ocL1wJg6Ny1vJPx3V-jeGVc8Z29-rVKFIoSVmC8rb2BEoudtDaCS=s96-c-rg-br100",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"02/16/2015",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
 }
